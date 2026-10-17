@@ -1,0 +1,9 @@
+{
+  "dataset": "Alice's Adventures in Wonderland",
+  "source": "https://www.gutenberg.org/files/11/11-0.txt",
+  "token_count": 31946,
+  "vocabulary_size": 2587,
+  "sequence_length": 20,
+  "training_sequences": 28733,
+  "test_sequences": 3193
+}
